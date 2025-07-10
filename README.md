@@ -1,6 +1,6 @@
 # website
 
-THis is the organization website repo.
+This is the organization website repo.
 
 
 # To run the project
@@ -16,6 +16,7 @@ cd frontend
 - npm install react-router-dom
 - npm install three @react-three/fiber @react-three/drei
 
+npm run dev 
 
-npm run dev..... go to your web browser
+go to your web browser
 
