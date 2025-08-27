@@ -64,8 +64,8 @@ function Contact() {
             </div>
             <div>
               <h4 className="text-lg font-semibold text-white">Phone</h4>
-              <p className="text-gray-300">+263 XXX XXX XXX</p>
-              <p className="text-gray-300">+263 XXX XXX XXX</p>
+              <p className="text-gray-300">+263 784 058 498</p>
+              <p className="text-gray-300">+263 775 101 044</p>
             </div>
           </div>
 
